@@ -1,0 +1,24 @@
+{
+    "name": "史普尼克",
+    "short_name": "史普尼克",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "史普尼克移动端应用",
+    "icons": [
+        {
+            "src": "https://gips2.baidu.com/it/u=963280661,1416287789&fm=3074&app=3074&f=JPEG",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
